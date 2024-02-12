@@ -54,7 +54,7 @@ export default function Home() {
         <AccordionItem value="item-2">
             <AccordionTrigger>Whats my ROI on this date looking like?</AccordionTrigger>
             <AccordionContent>
-            4000000000000000000000000000 million percent
+            400000000000000000000000000 million percent
             </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-3">
